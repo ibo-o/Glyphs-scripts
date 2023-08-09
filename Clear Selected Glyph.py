@@ -4,7 +4,7 @@
 
 __doc__=""" Removes all elements from selected glyph in current master."""
 
-#thanks to https://forum.glyphsapp.com/t/clear-selected-glyphs-in-current-master/24942
+#thanks to HugoJ and justinpenner https://forum.glyphsapp.com/t/clear-selected-glyphs-in-current-master/24942
 
 
 font = Glyphs.font
