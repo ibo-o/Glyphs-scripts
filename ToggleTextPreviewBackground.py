@@ -1,5 +1,8 @@
 #MenuTitle: Toggle Text Preview Background
 # -*- coding: utf-8 -*-
+__doc__="""
+To make it toggle, it must be run at least 2 times in everytime you re-open Glyphs App.
+"""
 
 #Thanks to Georg Seifert
 # He wrote the prompt code in: https://forum.glyphsapp.com/t/change-background-color-in-text-preview/17085/9
